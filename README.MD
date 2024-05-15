@@ -1,4 +1,5 @@
-[![Build Status](https://github.com/leandrogomesmachado/gerar_enderecos_bitcoin_offline/workflows/go/badge.svg)](https://github.com/leandrogomesmachado/gerar_enderecos_bitcoin_offline/actions)
+[![Build Status](https://github.com/leandrogomesmachado/gerar_enderecos_bitcoin_offline/workflows/Go%20Build/badge.svg)](https://github.com/leandrogomesmachado/gerar_enderecos_bitcoin_offline/actions)
+
 
 # Instruções para Compilar o Programa
 
