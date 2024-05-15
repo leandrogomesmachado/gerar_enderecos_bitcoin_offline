@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/leandrogomesmachado/gerar_enderecos_bitcoin_offline/workflows/go/badge.svg)](https://github.com/leandrogomesmachado/gerar_enderecos_bitcoin_offline/actions)
+
 # Instruções para Compilar o Programa
 
 Você deverá ter a Go Language instalada em seu sistema operacional.
